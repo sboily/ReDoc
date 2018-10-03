@@ -190,8 +190,8 @@ json
 ```
 yaml
 ```yaml
-lang: JavaScript
-source: console.log('Hello World');
+- lang: JavaScript
+  source: console.log('Hello World');
 ```
 
 ### Parameter Object vendor extensions
